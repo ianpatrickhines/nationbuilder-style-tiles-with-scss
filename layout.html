@@ -3,10 +3,10 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width">
-    <title>Style Tiles with SCSS</title>
-    <link rel="stylesheet" href="stylesheets/style.css">
-    <script src="js/jquery-1.9.0.min.js"></script>
-    <script src="js/style-tiles.js"></script>
+    <title>Style Tiles &mdash; {{ page.name }} &mdash; {{ page.headline }}</title>
+    <link rel="stylesheet" href="theme.scss">
+    {{ content_for_header }}
+    <script src="style-tiles.js"></script>
   </head>
   
   <body>  
@@ -14,9 +14,9 @@
       <header class="group">
         <h1>Style Tile<br>Template</h1>
         <hgroup class="project-title">
-          <h2>Project name</h2>
+          <h2>{{ page.name }}</h2>
           <h3>Style tile</h3>
-          <h4>Version 1</h4>
+          <h4>{{ page.headline }}</h4>
         </hgroup>
       </header>
     </div>
@@ -34,6 +34,15 @@
               <li class="color-swatch-4 swatch-1-5"></li>
               <li class="color-swatch-5 swatch-1-5"></li>
             </ul>
+        </section>
+
+        <section class="logos">
+          <h3 class="section-heading">Logo Versions</h3>
+          <ul class="swatchgrid group">
+            <li class="logo-swatch swatch-1-2"><img src="http://placehold.it/600x600" /></li>
+            <li class="logo-swatch swatch-1-2"><img src="http://placehold.it/600x600" /></li>
+            
+          </ul>
         </section>
 
         <section class="textures">
@@ -108,9 +117,10 @@
     <div class="footer-wrapper">
       <footer class="group">
         <small>
-          Style tile by Jerad Gallinger.<br>
-          <a href="http://jeradgallinger.ca">jeradgallinger.ca</a>
+          Style tile by Ian Patrick Hines.<br>
+          <a href="http://www.ianpatrickhines.com">ianpatrickhines.com</a>
         </small>
+        {{ content_for_footer }}
       </footer>
     </div>
   </body>

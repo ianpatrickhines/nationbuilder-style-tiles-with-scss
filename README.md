@@ -1,11 +1,7 @@
 #Style Tiles with SCSS
 
 ##What's this, then?
-Design style tiles with SCSS! Unchain your design ideas from Photoshop and jump straight into code. Upload to your server and share tiles with clients. It's responsive, too. 
-
-###Originally designed for and in CodePen
-Fork this in CodePen and make your own tiles: http://codepen.io/jeradg/pen/rFqat. Share your tiles with clients with the Full Page link. Go 
-CodePen Pro and update styles on the fly in Live View in a meeting with your client. Get your in-browser design on.
+Design style tiles with SCSS! Unchain your design ideas from Photoshop and jump straight into code. Create an additional site on your NationBuilder nation and set this as the custom theme. It's responsive, too. 
 
 ##A brief explanation
 Start at the top of the SCSS for the most basic options, and move down for more fine-grained styling. (For simplicity, the SCSS is all kept in a single file. If you'd prefer to use partials, that works too.)
@@ -25,3 +21,6 @@ Style Tiles with SCSS is set up for use with Compass (http://compass-style.org),
 
 ##What are Style Tiles?
 For more on Samantha Warren's awesome Style Tiles, check out http://styletil.es/ and http://www.alistapart.com/articles/style-tiles-and-how-they-work/.
+
+###Forked from Jerad Gallinger
+This Style Tiles repo was originally forked from Jerad Gallinger (https://github.com/ianpatrickhines/style-tiles-with-scss)[https://github.com/ianpatrickhines/style-tiles-with-scss]. It’s now in it’s own repository because I’ve repackaged it as a functional NationBuilder theme.
