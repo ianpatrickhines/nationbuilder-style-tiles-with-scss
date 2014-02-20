@@ -1,8 +1,9 @@
 #Style Tiles with SCSS
-https://github.com/ianpatrickhines/ianpatrickhines-52fd62e4ebad641210000002
+https://github.com/ianpatrickhines/style-tiles-with-scss
 
 Copyright (c) 2013, Ian Patrick Hines
-http://www.ianpatrickhines.com - http://twitter.com/ianpatrickhiens - http://github.com/ianpatrickhines
+
+http://www.ianpatrickhines.com - http://twitter.com/ianpatrickhines - http://github.com/ianpatrickhines
 
 Released under the WTFPL license - http://sam.zoy.org/wtfpl/
 
