@@ -1,14 +1,20 @@
-#Style Tiles with SCSS
-https://github.com/ianpatrickhines/style-tiles-with-scss
+The MIT License (MIT)
 
-Copyright (c) 2013, Ian Patrick Hines
+Copyright (c) 2013 Ian Patrick Hines
 
-http://www.ianpatrickhines.com - http://twitter.com/ianpatrickhines - http://github.com/ianpatrickhines
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
 
-Released under the WTFPL license - http://sam.zoy.org/wtfpl/
+- The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-Based on Samantha Warren's Style Tiles:
-http://styletil.es/ - http://www.alistapart.com/articles/style-tiles-and-how-they-work/
-
-And forked from Style Tiles with SCSS by Jerad Gallinger:
-https://github.com/jeradg/style-tiles-with-scss
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

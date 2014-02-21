@@ -1,4 +1,18 @@
-#Style Tiles with SCSS
+#NationBuilder Style Tiles with SCSS (Version 1.0)
+
+https://github.com/ianpatrickhines/style-tiles-with-scss
+
+Copyright (c) 2014 Ian Patrick Hines
+
+http://www.ianpatrickhines.com - http://twitter.com/ianpatrickhines - http://github.com/ianpatrickhines
+
+Released under the The MIT License (MIT) - See [LICENSE.md](https://github.com/ianpatrickhines/nationbuilder-style-tiles-with-scss/blob/master/LICENSE.md) for more information.
+
+Based on Samantha Warren's Style Tiles:
+http://styletil.es/ - http://www.alistapart.com/articles/style-tiles-and-how-they-work/
+
+And forked from Style Tiles with SCSS by Jerad Gallinger:
+https://github.com/jeradg/style-tiles-with-scss
 
 ##What's this, then?
 Design style tiles with SCSS! Unchain your design ideas from Photoshop and jump straight into code. Create an additional site on your NationBuilder nation and set this as the custom theme. It's responsive, too. 
