@@ -1,6 +1,6 @@
 #NationBuilder Style Tiles with SCSS (Version 1.0)
 
-https://github.com/ianpatrickhines/style-tiles-with-scss
+https://github.com/ianpatrickhines/nationbuilder-style-tiles-with-scss
 
 Copyright (c) 2014 Ian Patrick Hines
 
@@ -37,4 +37,4 @@ Style Tiles with SCSS is set up for use with Compass (http://compass-style.org),
 For more on Samantha Warren's awesome Style Tiles, check out http://styletil.es/ and http://www.alistapart.com/articles/style-tiles-and-how-they-work/.
 
 ###Forked from Jerad Gallinger
-This Style Tiles repo was originally forked from Jerad Gallinger (https://github.com/ianpatrickhines/style-tiles-with-scss). It’s now in it’s own repository because I’ve repackaged it as a functional NationBuilder theme.
+This Style Tiles repo was originally forked from Jerad Gallinger (https://github.com/jeradg/style-tiles-with-scss).
